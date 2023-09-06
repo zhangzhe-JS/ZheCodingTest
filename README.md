@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue_demo
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# ZheCodingTest
+>>>>>>> 5a956e2a43127846acca08d9d8b833a303f941dc
